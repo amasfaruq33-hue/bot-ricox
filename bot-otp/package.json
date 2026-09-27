@@ -1,0 +1,7 @@
+{
+  "name": "bot-otp-telegram",
+  "version": "1.0.0",
+  "description": "Webhook OTP to Telegram",
+  "main": "index.js",
+  "dependencies": {}
+}
